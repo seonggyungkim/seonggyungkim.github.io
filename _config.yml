@@ -1,0 +1,8 @@
+title: Seonggyung's Data Analytics Blog
+description: Data Analyst Study Blog
+author: Seonggyung
+
+theme: minima
+
+plugins:
+  - jekyll-feed
