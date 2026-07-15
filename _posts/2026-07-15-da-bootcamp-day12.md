@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "데이터 분석 부트캠프 12일차 | Github 첫 포스팅"
+title: "데이터 분석 부트캠프 12일차 | Python EDA 실습: Spotify 인기곡 특성 분석"
 date: 2026-07-15
 categories: da-bootcamp
 tags: [Python, EDA, GitHub, Study]
