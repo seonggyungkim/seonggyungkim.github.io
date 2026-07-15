@@ -6,8 +6,8 @@ categories: da-bootcamp
 tags: [Python, EDA, GitHub, Study]
 ---
 
-# 🎧 데이터 분석 부트캠프 12일차
-## Python EDA 실습: Spotify 인기곡 특성 분석
+# 데이터 분석 부트캠프 12일차
+## 🎧 Python EDA 실습: Spotify 인기곡 특성 분석
 
 데이터 분석은 단순히 코드를 작성하고 결과를 확인하는 과정이 아니라,
 
