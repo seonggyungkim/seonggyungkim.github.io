@@ -2,7 +2,11 @@
 layout: home
 ---
 
-## 📊 데이터를 통해 질문하고, 인사이트를 찾아가는 기록
+<div style="font-size: 28px; font-weight: bold;">
+📊 데이터를 통해 질문하고, 인사이트를 찾아가는 기록
+</div>
+
+<br>
 
 안녕하세요.  
 데이터 분석가를 목표로 성장하고 있는 Seonggyung입니다.
